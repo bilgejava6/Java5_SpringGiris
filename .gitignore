@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/Step001/build/
+/Step001/build/classes/java/main/
+/Step003/build/
+/Step003/build/classes/java/main/
+/Step004/build/
+/Step004/build/classes/java/main/
+/Step005/build/
+/Step005/build/classes/java/main/
+/Step006_SpringFramew/build/
+/Step006_SpringFramew/build/classes/java/main/

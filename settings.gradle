@@ -1,0 +1,8 @@
+rootProject.name = 'SpringGiris'
+include 'Step001'
+include 'Step002'
+include 'Step003'
+include 'Step004'
+include 'Step005'
+include 'Step006_SpringFramew'
+
